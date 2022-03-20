@@ -1,0 +1,89 @@
+@import url("https://use.fontawesome.com/releases/v6.1.0/css/all.css");
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.encabezado {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.856);
+}
+
+.encabezado2 {
+    color: white;
+    background-color: rgba(226, 169, 25, 0.89);
+}
+
+.banner {
+    text-align: center;
+    background-image: url(../images/bowl-and-pet-daities-on-green-background\ 1.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 450px;
+}
+
+.titulo {
+    font-size: 35px;
+    font-weight: lighter;
+    color: rgb(49, 22, 6);
+}
+
+.info {
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+.comederos {
+    color: white;
+   background-color: rgba(226, 169, 25, 0.89);
+}
+
+.titulo2 {
+    font-size: 35px;
+    color: rgb(49, 22, 6);
+}
+
+.articulos {
+    font-size: 15px;
+    color: rgba(49, 22, 6, 0.733);
+}
+
+.fondo {
+    background-color: #FAF9F5;
+}
+
+.juguete {
+    font-weight: 500;
+    color: rgb(49, 22, 6);
+}
+
+.precio {
+    color: rgba(226, 169, 25, 0.89);
+}
+
+.informacion {
+    background-color: rgba(49, 22, 6, 0.897);
+}
+
+.pie {
+    font-weight: 700;
+    font-size: 17px;
+    color: white;
+}
+
+.datos {
+    font-weight: 700;
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.541);
+}
+
+.derechos {
+    font-weight: 700;
+    color: white;
+    background-color: rgba(231, 170, 56, 0.993);
+    text-align: center;
+    font-size: 15px;
+}
